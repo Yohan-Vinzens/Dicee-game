@@ -39,3 +39,8 @@ footer {
   font-family: 'Indie Flower', cursive;
 
 }
+
+.containerButton {
+  margin-top: 50px;
+  text-align: center;
+}
